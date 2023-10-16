@@ -1,0 +1,14 @@
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/bin/Debug/net7.0/DZ001
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/bin/Debug/net7.0/DZ001.deps.json
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/bin/Debug/net7.0/DZ001.runtimeconfig.json
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/bin/Debug/net7.0/DZ001.dll
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/bin/Debug/net7.0/DZ001.pdb
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.AssemblyInfoInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.AssemblyInfo.cs
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.csproj.CoreCompileInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.dll
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/refint/DZ001.dll
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.pdb
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/DZ001.genruntimeconfig.cache
+/Users/gost/Documents/Education_GB/c_sharp/sem_3/DZ001/obj/Debug/net7.0/ref/DZ001.dll
